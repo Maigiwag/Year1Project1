@@ -1,3 +1,13 @@
 # Year1Project1
 digit recognition program? 
-test
+
+O.L.I.V.E.R Algorithm
+
+Operative
+Linear
+Integer
+Varible
+Expression
+Recognition
+
+
