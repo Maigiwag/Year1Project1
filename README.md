@@ -1,4 +1,4 @@
-# Year1Project1
+# O.L.I.V.E.R. AI
 digit recognition program? 
 
 O.L.I.V.E.R Algorithm
